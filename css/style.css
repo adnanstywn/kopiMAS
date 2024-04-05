@@ -573,30 +573,29 @@ footer div.navigasi a {
       text-align: center;
    }
 
-
-   div.produk {
+   div.team,
+   div.produk,
+   div.kontak {
       width: 50%;
    }
-}
 
-div.team,
-div.kontak {
-   width: 50%;
-}
+   div.navigasi {
+      display: none;
+   }
 
-div.testimoni {
-   width: 100%;
-   padding: 20px;
-   margin-bottom: 30px;
-}
+   div.testimoni {
+      width: 100%;
+      padding: 20px;
+      margin-bottom: 30px;
+   }
 
-div.navigasi {
-   display: block;
-}
 
-a.shop {
-   margin-right: 20px;
-   margin-left: auto;
+   a.shop {
+      margin-right: 20px;
+      margin-left: auto;
+   }
+
+
 }
 
 
